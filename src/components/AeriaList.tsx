@@ -16,6 +16,7 @@ import { AerialItem } from "./AerialItem";
 
 const AerialListWrapper = styled.div`
   flex-basis: 50%;
+  margin-left: 5%;
 `;
 
 const List = styled.ul`

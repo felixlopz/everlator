@@ -24,9 +24,6 @@ const Price = styled.p`
 const ListsWrappers = styled.div`
   display: flex;
   width: 100%;
-  div:not(:last-child) {
-    margin-right: 40px;
-  }
 `;
 
 function App() {
