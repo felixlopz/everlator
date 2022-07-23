@@ -42,7 +42,7 @@ const Name = styled.h2`
 `;
 
 const Input = styled.input`
-  width: 100px;
+  max-width: 50px;
   flex-grow: 1;
 `;
 
